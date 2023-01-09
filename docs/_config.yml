@@ -18,8 +18,8 @@ email: Olivia.holtman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Yet another Jekyll theme. It is designed for business purpose and ported by 
   Melvin Ch'ng.
-baseurl: "/oliviaflorence" # the subpath of your site, e.g. /blog
-url: "https://edwardvk.github.io/oliviaflorence/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://oliviaflorence.lateforlunch.life" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
 company_name: Johns, Smith & Associates
